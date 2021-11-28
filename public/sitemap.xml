@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://layer0-docs-zola-default.layer0-limelight.link/</loc>
     </url>
     <url>
-        <loc>https://example.com/blog/</loc>
+        <loc>https://layer0-docs-zola-default.layer0-limelight.link/blog/</loc>
     </url>
     <url>
-        <loc>https://example.com/blog/first/</loc>
+        <loc>https://layer0-docs-zola-default.layer0-limelight.link/blog/first/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>https://example.com/blog/second/</loc>
+        <loc>https://layer0-docs-zola-default.layer0-limelight.link/blog/second/</loc>
         <lastmod>2019-11-28</lastmod>
     </url>
 </urlset>

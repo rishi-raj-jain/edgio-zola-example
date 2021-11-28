@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://layer0-docs-zola-default.layer0-limelight.link/sitemap.xml
