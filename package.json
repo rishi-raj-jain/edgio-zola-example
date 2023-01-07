@@ -1,18 +1,14 @@
 {
   "name": "zola",
-  "version": "1.0.0",
   "scripts": {
-    "layer0:dev": "layer0 dev",
-    "layer0:build": "zola build && layer0 build",
-    "layer0:deploy": "zola build && layer0 deploy",
+    "edgio:dev": "edgio dev",
+    "edgio:build": "zola build && edgio build",
+    "edgio:deploy": "zola build && edgio deploy",
     "format": "prettier --write '**/*' --ignore-unknown"
   },
-  "dependencies": {},
   "devDependencies": {
-    "@layer0/cli": "^4.5.0",
-    "@layer0/core": "^4.5.0",
-    "@layer0/devtools": "^4.5.0",
-    "@layer0/prefetch": "^4.5.0",
-    "prettier": "^2.5.0"
+    "@edgio/cli": "latest",
+    "@edgio/core": "latest",
+    "prettier": "latest"
   }
 }
